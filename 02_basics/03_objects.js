@@ -7,7 +7,7 @@
 const JsUser = {
 
     name: "Hitesh"
-    location: "jaipur",
+    Location: "jaipur",
     email: "google@gmail.com",
     isLoggedIn: false,
     lastLoginDays: ["Monday", "Staturday"]
