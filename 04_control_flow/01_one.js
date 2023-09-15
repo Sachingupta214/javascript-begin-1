@@ -44,6 +44,7 @@ const loggedInFromEmail = true
 if(isUserLoggedIn && debitCard  && 2==3){
     console.log("Allow to buy course")
 }
-fi(user){
-    console.log()
+if(loggedInFromGoogle || loggedInFromEmail){
+    console.log("User logged in")
 }
+
